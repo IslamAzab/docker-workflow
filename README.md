@@ -2,6 +2,9 @@
 
 [![Circle CI](https://circleci.com/gh/msanand/docker-workflow/tree/master.svg?style=shield)](https://circleci.com/gh/msanand/docker-workflow/tree/master)
 
+To make it run, just clone the repo and run
+`docker-compose up`
+
 For a detailed explanation of the workflow used in this repository, refer to [this post from my blog](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/):
 [http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/)
 
